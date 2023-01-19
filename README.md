@@ -3,4 +3,4 @@ This script also checks if the domain starts with "http://" or "https://" or not
 
 This script can be useful for web developers, security researchers, and system administrators who need to identify the server software used by a web server for a given domain. It can help in identifying potential vulnerabilities, compatibility issues, and security risks associated with the server software. Additionally, this script can also be used to identify the servers that are not working or not accessible.
 
-# python exploit.py domainlist.txt
+usage: python exploit.py domainlist.txt
